@@ -25,3 +25,6 @@ Elastic er et udtræk fra Kibana, med kø navn, status og transaktion - husk ing
 
 Når mapningen er færdig, klik på Opret CSV knapen i mapningsarket, herved genereres en CSV fil. Hvis data til opdatering skal opdateres skal en nuværende fil overskrives. 
 Denne fil bruges når du køre 'RunUpdateMonday'. 
+
+
+Dette er tilføjet senere. 
