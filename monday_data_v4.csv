@@ -1,0 +1,89 @@
+﻿Name,Queue,Transaktioner,BoardID,Column ID,Item ID
+0018 - Bestilling af bioanalytiker (kopi af 0018 fra AUH),0018_RHG,727,2603550432,numbers2,2658586813
+0123 - Bogføring af fakturaer,0123_EXE_Bilag_Queue,36932,2603550432,numbers2,3166992326
+0268 - Visiteringsrobot (RITM0532588),0268_Visiteringsrobot_RHG,51969,2603550432,numbers2,2603550462
+"0302 - Tolkeregninger RHG (Børn og unge, 66.40.24).1",0302_66.40.24.1_Queue,7,2603550432,numbers2,5644036469
+"0302 - Tolkeregninger RHG (Diabetes, 66.40.38.B)",0302_66.40.38.B_Queue,5,2603550432,numbers2,5778714422
+"0302 - Tolkeregninger RHG (Ernæring, 66.40.27.A)",,,2603550432,numbers2,5778711580
+"0302 - Tolkeregninger RHG (Hjertesygdomme, 66.40.30.1)",0302_66.40.30.1_Queue,11,2603550432,numbers2,4091239386
+"0302 - Tolkeregninger RHG (Neurologisk, 66.40.40.1)",0302_66.40.40.1_Queue,2,2603550432,numbers2,5778664834
+"0302 - Tolkeregninger RHG (Urinvejs, 66.40.46.1)",0302_66.40.46.1_Queue,7,2603550432,numbers2,5573001823
+0306 - Godkendelse af prøvesvar I Akut (RITM0600545),0306_Godkendelse_Af_Negativ_Prøvesvar,37914,2603550432,numbers2,2603550546
+0306 - Godkendelse af prøvesvar i Kvindesygdomme,0306_Godkendelse_Af_Negativ_Prøvesvar_Kvinde,131,2603550432,numbers2,4014063269
+0306 - Godkendelse af prøvesvar i Urinvejs kir.,0306_Godkendelse_Af_Negativ_Prøvesvar_Urinvejs,1478,2603550432,numbers2,4014173475
+0306 - Godkendelse af prøvesvar i ØNH,0306_Godkendelse_Af_Negativ_Prøvesvar_ONH,495,2603550432,numbers2,4014087183
+0329 - Automatisk tildeling af bookingrettigheder,0329_EXE_Tildeling_EPJ_Bookingrettighed_RHG,351,2603550432,numbers2,2603550535
+0345 - RisStandardbeskrivelser,0345_RisStandardbeskrivelser,13414,2603550432,numbers2,2603550599
+0370 - Fordeling af FEA,0370_Fordeling_af_FEA_i_RIS_Vue,1173,2603550432,numbers2,2603550623
+0371 - Bestille eGFR på CT-undersøgelser,0371_Queue_eGFR_bestilling_i_MidtEPJ_fra_RIS,12618,2603550432,numbers2,2603550648
+0381 - Opdatering af døgnvariation  klinisklogistik,0381_Diurnal_Variation,34563,2603550432,numbers2,5768465109
+0381 - Ændring_Disponible_Senge_CCL - RITM0655828,0381_Disponible_senge_CCL,338253,2603550432,numbers2,2603550671
+0381 - Ændring_Disponible_Senge_CCL Akut på tværs,0381_Akut_Paa_Tvaers,9310,2603550432,numbers2,5415073627
+0420 - Proces der sætter nyfødte og mødre på patientlister,0420_CPR_til_patientliste,5327,2603550432,numbers2,2603550696
+0421 - Tjek om der er lavet PKU og fjerne fra patientliste (RITM0701899),0421_PKU_Tjek,44760,2603550432,numbers2,2603550709
+0422 - DIS Kapelregninger i Klinisk Logistik - Regninger,0422_DIS_Kapelregninger_QueueName,1127,2603550432,numbers2,2603550723
+0422 - EXE Kapelregninger i Klinisk Logistik - Breve,0422_EXE_Kapelregninger_QueueName,267,2603550432,numbers2,3602648893
+0440 - Seponering af gamle SFIer (RITM0711426),0440_SFI,14840,2603550432,numbers2,2603550752
+0468 Opslag af BI Cpr i EPJ,0468_RHG_BI_Cpr_til_EPJ,10317,2603550432,numbers2,4207349701
+0481 - Registrering af diagnose på virtuelle kontakter,0481_RHG_Virtuel_Contacts_Queues,840,2603550432,numbers2,2603550572
+0485 - Fjernelse af Farvemarkeringer i MidtEPJ ifm udskrivning,0485_Fjernelse_af_farvemarkeringer_i_MidtEPJ_Queue,4304,2603550432,numbers2,2675190522
+0485 - Fjernelse af Farvemarkeringer i MidtEPJ ifm udskrivning Børn og Unge,0485_Fjernelse_af_farvemarkeringer_i_MidtEPJ_Queue,4304,2603550432,numbers2,4900089456
+0485 - Fjernelse af Farvemarkeringer i MidtEPJ ifm udskrivning Hjerte,0485_RHG_Hjerteafd_Fjernelse_af_farvemarkeringer,5225,2603550432,numbers2,4709903493
+0485 - Fjernelse af Farvemarkeringer i MidtEPJ ifm udskrivning Kræftafdelingen,0485_RHG_KraeftAfd_Fjernelse_af_farvemarkeringer,1279,2603550432,numbers2,5996865343
+0485 - Fjernelse af Farvemarkeringer i MidtEPJ ifm udskrivning Kvindesygdomme og Fødsler,0485_RHG_KvindeFoed_Fjernelse_af_farvemarkeringer,384,2603550432,numbers2,5184199765
+0485 - Fjernelse af Farvemarkeringer i MidtEPJ ifm udskrivning Mave/Tarm kirurgisk,0485_RHG_MaveTarmKir_Fjernelse_af_farvemarkeringer,4332,2603550432,numbers2,5184202448
+0485 - Fjernelse af Farvemarkeringer i MidtEPJ ifm udskrivning Mave/Tarm lever inf,0485_RHG_MaveTarm_Fjernelse_af_farvemarkeringer,1180,2603550432,numbers2,5099416154
+0485 - Fjernelse af Farvemarkeringer i MidtEPJ ifm udskrivning Neurologisk,0485_RHG_NeuroFysErg_Fjernelse_af_farvemarkeringer,2338,2603550432,numbers2,5333208996
+0485 - Fjernelse af Farvemarkeringer i MidtEPJ ifm udskrivning OrtopaedKir,0485_RHG_OrtopaedKir_Fjernelse_af_farvemarkeringer,1844,2603550432,numbers2,5333206337
+0485 - Fjernelse af Farvemarkeringer i MidtEPJ ifm udskrivning Urinvejskirurgisk Sengeafsnit,0485_RHG_Urinvejskir_Fjernelse_af_farvemarkeringer,2324,2603550432,numbers2,5184192074
+0485 - Fjernelse af Farvemarkeringer i MidtEPJ ifm udskrivning Øre Næse og Hals Afd.,0485_RHG_OreNaseHals_Fjernelse_af_farvemarkeringer,735,2603550432,numbers2,5514356600
+0488 - Bestilling af patienttransport til røntgen vha opgavesystemet,0488_Bestil_Patienttransport,49840,2603550432,numbers2,2859786881
+0494 - Kontering af Abbott fakturaer,0494_Kontering af fakturaer fra Abbott,7988,2603550432,numbers2,3174422236
+0494 - Kontering af Abbott fakturaer (Horsens),0494_Kontering af fakturaer fra Abbott_Horsens,929,2603550432,numbers2,5483132567
+0496 Rediger_Betalingsoplysninger_i_MidtEPJ Lungemedicinsk,0496_RHG_LungeMedicinsk,579,2603550432,numbers2,5996866893
+0496 Rediger_Betalingsoplysninger_i_MidtEPJ Urinvejs,0496_RHG_URO,113,2603550432,numbers2,5873700517
+0496 Rediger_Betalingsoplysninger_i_MidtEPJ Øjen,0496_RHG_Ojen,9804,2603550432,numbers2,5547241627
+0496 Rediger_Betalingsoplysninger_i_MidtEPJ ØNH,0496_RHG_ONH,2755,2603550432,numbers2,3821494900
+0499 - Oprettelses af rekvisition til blodprøve fra Visitationsrobotten - 0499_Blodprovebestilling_RHG,0499_Blodprovebestilling_RHG,1165,2603550432,numbers2,2774363624
+0519 - Udsendelse af breve,0519_RHG_Forsendelse_af_breve,53,2603550432,numbers2,3258954290
+0519 - Udsendelse af breve Øjen,0519_RHG_OEK_Forsendelse_af_breve,776,2603550432,numbers2,5415095420
+0519 - Udsendelse af breve ØNH,0519_RHG_ONH_Forsendelse_af_breve,2736,2603550432,numbers2,5059576411
+0524 - Metode 2 robot (kopi af 0455),0524_Brevskabeloner,11367,2603550432,numbers2,2603550505
+0528 - Seponering af SFIer ved udskrivelse,0528_SFI,35366,2603550432,numbers2,3575546585
+0530 - Udsendelse af korrespondancebreve,0530_Queue_Forsendelse_Af_Korrespondancebreve,2767,2603550432,numbers2,3572731938
+0534 - Oprettelse af nyfødte i Labka,0534_Oprettelse_af_nyfødte_i_LABKA_Queue,1995,2603550432,numbers2,3075606243
+0535 - Indtastning i Vest Dansk Hjertedatabase,0535_Queue,561,2603550432,numbers2,3219726602
+0549_Bestilling_Af_Operationsspecifikke_Blodprover_CEA_Hb,0499_Blodprovebestilling_MaveTarm_CEA_Hb,1084,2603550432,numbers2,3624299071
+0550_Bestilling_Af_Dialyse_Blodprover,0499_Bestilling_af_Dialyse_Blodprover,1202,2603550432,numbers2,3624298778
+0553 - Udtræk af SD data til budgetopfølgning,0553_BudgetData,49312,2603550432,numbers2,3852494757
+0563 - Sætte specifikke forløbsmarkører ifm. specifikke bookingopgaver,0563_ForlobsmarkorToAdd,6174,2603550432,numbers2,3820545044
+0569 - Indhent standardplaner ved booking i EPJ - Dispatcher til 0503,0569_Standardplaner_kvindesygdomme_og_fodsler,17596,2603550432,numbers2,4047765374
+0572 - Varemodtage fakturaer valideret fra BI udtræk - Klinik for Snorken og Søvnapnø,0572_Queue,1258,2603550432,numbers2,4066478108
+0577 - Indhentning af patientinfo til standardplan (RHV 66.30),0577_Queue_66.30_Procedure,730,2603550432,numbers2,5643426293
+0591 - Indhente standardplaner til dagsprogram - dispatcher til 0503,0591_Standardplaner_udfra_dagsprogram,1876,2603550432,numbers2,4215712673
+0606 - Oprettelse af patienter i Emento,0606_Patients_to_add_in_Emento,2474,2603550432,numbers2,3027881845
+0608 - DIS Bestilling af blodproever og ekg hjerteafdeling (0499),0608_Bestilling_af_blodproever_og_ekg_hjerteafd,1202,2603550432,numbers2,4534694402
+0609 - Udtræk og Arkivering af Ekg fra henvisninger,0609_Archived_Ekg,12426,2603550432,numbers2,4377917500
+0609 - Udtræk og Arkivering af Ekg fra henvisninger ØNH,0609_RHG_SnorkSoevn_Queue,230,2603550432,numbers2,5184151295
+0613 - Tilføje medarbejdere på vagtplan i Klinisk Logistik,0613_RHG_Sterilcentralen_Tilfoj_til_Vagtplan,4332,2603550432,numbers2,4346672198
+0618 - Oprettelse af elektive patienter på påvej-listen i Anywhere ud fra kommende uges program,0618_Patienter_til_oprettelse,367,2603550432,numbers2,4215677725
+0630 - Monitorering af indkøbsvogne i RM indkøb,0630_Carts_to_monitor,764,2603550432,numbers2,4455416988
+0640 - Konica Minolta fakturaer,0640_Konica_Minolta_fakturaer_Queue,126,2603550432,numbers2,4923169384
+0656 - Flytte CPR fra PRObop2 til EPJ,0656_Flytte_CPR_fra_PRObop2_til_EPJ_Queue,450,2603550432,numbers2,4448081625
+0662 - Journalisering af samtykke i EPJ,0662_Samtykke_Høreklinikken,3004,2603550432,numbers2,5668431380
+0662 - Journalisering af vandrejournaler,0662_Journaliser_Vandrejournaler,1672,2603550432,numbers2,5050504044
+0662 - Knoglemarvssedler Blodsygdomme,0662_Knoglemarvssedler_Blodsygdomme,54,2603550432,numbers2,6521396900
+0662 - ØNH Journalisering af samtykke i EPJ,0662_Samtykke_ONH,5,2603550432,numbers2,6521400675
+0663 - Oprettelse af nyhenviste patienter i Heidelberg og Forum ud fra patientliste i EPJ,0663_Queue,7972,2603550432,numbers2,3258246006
+0670 - rykker ved manglende varemodtagelse - AUH,0670_Ryk_For_Varemodtagelse_AUH,777,2603550432,numbers2,5856662339
+0670 - rykker ved manglende varemodtagelse - Kopi og tilretning af 0632,0670_Ryk_For_Varemodtagelse,1163,2603550432,numbers2,5166967714
+0678 - Lukke forløb i høreklinikken,0678_Lukning_af_horeapperart_forløb,1515,2603550432,numbers2,5263995324
+0679 - Udtrækning af data fra Klinisk Logistik,0679_Udtraek_af_data_fra_Klinisk_Logistik,18330,2603550432,numbers2,5263995875
+0680 - Oprette kørsel på turbestilling,0680_Queue_turbestilling,108,2603550432,numbers2,5423052663
+0685 - Registreringer ifbm. fødselsforberedelse,0685_66.40_Queue,87,2603550432,numbers2,5075519429
+0690 - Udsende brev-reminder om udfyldelse af spørgeskemaer i Ambuflex på patienter i RIS,0690_RRA_Queue,217,2603550432,numbers2,4956974417
+0699 Kopiere patientoplysninger fra MidtEPJ over i EG Clinea,0699_Visiterede_Patienter,1603,2603550432,numbers2,5318679677
+0701 Håndtering af fakturaer fra Amgros,0701_AmgrosFakturaer,4921,2603550432,numbers2,5554586829
+0703 - Assistance til forsikringssager,0703_Counting_Queue,4512,2603550432,numbers2,5573863841
+0706 - Beregning af gestationsalder af for tidligt fødte,0706_Beregninger_af_gestationsalder,1266,2603550432,numbers2,5396839944
+0750 - Akivering af samtykkeerklæringer i EPJ fra funktionspostkasse,0750_Queue,375,2603550432,numbers2,5966868008
