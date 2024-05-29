@@ -21,10 +21,7 @@ Monday er der, hvor data samles/mappes
 	Kolonne D er nummeret på det board, hvor itemet skal opdateres. 
 	Kolonne E er columneID fra monday, hvor data skal opdateres. 
 mondayID er her hvor du indsætter data fra Item filen, som blev udtrukket ovenfor. 
-Elastic er et udtræk fra Kibana, med kø navn, status og transaktion - husk ingen tusindtalsseperator i antal, for et CSV udtræk fra Kibana er med US setting hvor komma og punktum er bytte om. 
+Elastic er et udtræk fra Kibana, med kø navn, status og transaktion - husk ingen tusindtalsseperator i antal, for et CSV udtræk fra Kibana er med US setting hvor komma og punktum er bytte om. RHG Kibana udtræk kan ses her: https://kibana.rpa.rm.dk/s/analytics/app/dashboards#/view/b36f7107-e513-5883-bcfb-8d3eac2264b5?_g=(filters:!())
 
 Når mapningen er færdig, klik på Opret CSV knapen i mapningsarket, herved genereres en CSV fil. Hvis data til opdatering skal opdateres skal en nuværende fil overskrives. 
 Denne fil bruges når du køre 'RunUpdateMonday'. 
-
-
-Dette er tilføjet senere. 

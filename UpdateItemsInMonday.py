@@ -19,13 +19,14 @@ file = open("monday_data_v4.csv", "r+")
 for line in file: 
     monday_item = line.split(",")
     board = monday_item[3]
-    item = monday_item[5]
+    item = monday_item[5].strip()
     column = monday_item[4]
     value = monday_item[2]
     if item == "" or value == "" or board == "BoardID":
         print("Skipping line...")
     else: 
         try: 
+            print(f"Updateing item: {item} in column: {column} with the value: {value}")
             change_item_value(board,item,column,value)
         except Exception:
             print("Der er sket en fejl med item: " + str(item))
