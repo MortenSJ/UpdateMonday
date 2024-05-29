@@ -1,8 +1,8 @@
 @echo off
 
-REM Download the latest Python installer (e.g., python-3.9.6-amd64.exe)
+REM Download the latest Python installer (e.g., python-3.12.3-amd64.exe)
 echo Downloading Python installer...
-curl -o python-installer.exe https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe
+curl -o python-installer.exe https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe
 
 REM Install Python silently
 echo Installing Python...
